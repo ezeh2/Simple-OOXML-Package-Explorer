@@ -1,0 +1,19 @@
+
+additional feature:
+* editing of Office opn XML files
+* opening of Excel or Word using play-button in Package Explorer
+
+Demo-Video on channel 9:
+https://channel9.msdn.com/Blogs/dmahugh/Package-Explorer-for-Open-XML
+
+
+PackageExplorer.zip:
+https://archive.codeplex.com/?p=packageexplorer
+
+PackageExplorer_V2.3.0_BIN.zip:
+http://www.softpedia.com/get/Programming/Other-Programming-Files/Open-XML-Package-Explorer.shtml
+
+
+https://www.openhub.net/p/PackageExplorer/commits/summary
+http://archive.oreilly.com/pub/post/open_xml_package_explorer_now_1.html
+
