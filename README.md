@@ -1,6 +1,10 @@
 DON'T DELETE THIS REPOSITORY. This application was removed from the original location.
 This is the only repository in github which holds this application!
 
+original location:
+http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2006/05/31/261.aspx
+
+
 # Simple-OOXML-Package-Explorer
 Simple OOXML Package Explorer allows to browse content of xlsx, docx and pptx-files, 
 which are created by Microsoft Office since version 2007.
